@@ -42,7 +42,7 @@ EMBEDDING_SIZE = 512
 # size of LSTM hidden state vectors
 HIDDEN_SIZE = 1024
 
-LEARNING_RATE = 0.0001
+LEARNING_RATE = 0.001
 
 # log training progress every X batches
 LOGGING_INTERVAL = 1000
